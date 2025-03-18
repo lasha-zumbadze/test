@@ -1,0 +1,14 @@
+{
+  "layout": {},
+  "pages": {
+    "home": "Home Page",
+    "post": "All Posts"
+  },
+  "buttons": {
+    "submit": "გაგზავნა",
+    "cancel": "გაუქმება"
+  },
+  "messages": {
+    "welcome": "კეთილი იყოს თქვენი მობრძანება ჩვენს ვებგვერდზე!"
+  }
+}
