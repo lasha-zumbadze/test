@@ -6,6 +6,7 @@ import i18next from "i18next";
 import { useState } from "react";
 
 function Header() {
+  // const [lng, setLng] = useState("en");
   const [lng, setLng] = useState("en");
 
   return (
